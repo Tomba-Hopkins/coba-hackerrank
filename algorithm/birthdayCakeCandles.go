@@ -11,7 +11,7 @@ package algorithm
 
 // Answer :
 
-func birthdayCakeCandles(candles []int32) int32 {
+func BirthdayCakeCandles(candles []int32) int32 {
     left := int32(candles[0])
     
     for i := 1; i < len(candles); i++{

@@ -16,7 +16,7 @@ import "math"
 // 33
 
 // Answer :
-func gradingStudents(grades []int32) []int32 {
+func GradingStudents(grades []int32) []int32 {
     result := []int32{}
     
     for _, grade := range grades {

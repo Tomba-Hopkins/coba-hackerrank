@@ -10,7 +10,7 @@ import "fmt"
 // 10 14
 // Answer :
 
-func miniMaxSum(arr []int32) {
+func MiniMaxSum(arr []int32) {
     small := arr[0]
     big := arr[0]
 

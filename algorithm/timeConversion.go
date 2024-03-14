@@ -10,7 +10,7 @@ import "strconv"
 
 // Answer :
 
-func timeConversion(s string) string {
+func TimeConversion(s string) string {
 	jam1, jam2 := s[0], s[1]
 	jam := string(jam1) + string(jam2)
 

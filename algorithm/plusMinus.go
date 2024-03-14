@@ -15,7 +15,7 @@ package algorithm
 
 import "fmt"
 
-func plusMinus(arr []int32) {
+func PlusMinus(arr []int32) {
 	n := int32(len(arr))
 	negative := []int32{}
 	positive := []int32{}

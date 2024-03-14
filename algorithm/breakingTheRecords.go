@@ -14,7 +14,7 @@ package algorithm
 // 4 0
 
 // Answer :
-func breakingRecords(scores []int32) []int32 {
+func BreakingRecords(scores []int32) []int32 {
 	win := 0
 	lose := 0
 
