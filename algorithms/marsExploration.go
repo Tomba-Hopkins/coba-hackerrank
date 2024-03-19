@@ -29,7 +29,7 @@ package algorithm
 
 // Answer :
 
-func mMrsExploration(s string) int32 {
+func MrsExploration(s string) int32 {
 	res := 0
 
 	for i := 0; i < len(s); i += 3 {
