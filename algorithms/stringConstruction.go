@@ -14,7 +14,7 @@ package algorithm
 // 2
 
 // Answer :
-func stringConstruction(s string) int32 {
+func StringConstruction(s string) int32 {
 	abjad := map[rune]int{}
 
 	for _, r := range s {
