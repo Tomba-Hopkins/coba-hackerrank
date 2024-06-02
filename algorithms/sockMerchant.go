@@ -12,7 +12,7 @@ package algorithm
 
 // Answer :
 
-func sockMerchant(n int32, ar []int32) int32 {
+func SockMerchant(n int32, ar []int32) int32 {
 
 	res := 0
 	
